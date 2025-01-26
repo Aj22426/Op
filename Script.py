@@ -2,7 +2,7 @@ class script(object):
     START_TXT = """<b>𝐇𝐞𝐥𝐥𝐨 {},
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ
 
-🌺 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Farooq_is_KING'>𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭</a></b>"""
+🌺 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/moviesxyz_ofcl'>MOVIESXYZ™</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
@@ -11,7 +11,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
  
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/TG_filter_V1bot>TG_filter_V1bot</a>
- ‣ Create By : <a href='https://t.me/Farooq_is_KING'>WOODcraft</a> 
+ ‣ Create By : <a href='https://t.me/moviesxyz_ofcl'>MOVIESXYZ™</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -20,7 +20,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
     SOURCE_TXT = """
 <b>Nᴏᴛᴇ:
-✭ Bᴏᴛ ɪs Rᴇᴅᴇsɪɢɴ ʙʏ <a href='https://t.me/Farooq_is_KING'>𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭</a>
+✭ Bᴏᴛ ɪs Rᴇᴅᴇsɪɢɴ ʙʏ <a href='https://t.me/moviesxyz_ofcl'>MOVIESXYZ™</a>
 ✭ Sᴏᴜʀᴄᴇ - ɪᴛ's ᴀ ᴘʀɪᴠᴀᴛᴇ ʀᴇᴘᴏ
 ✭ ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ</b>
 """
@@ -44,7 +44,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/Opleech)</code>
+<code>[Button Text](buttonurl:https://t.me/moviesxyz_ofcl)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -73,7 +73,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/Farooq_is_KING>Owner</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/MOVIESXYZ™>Owner</a></b>
   
  <b>✯ Join here : <a href=https://t.me/Opleech>Join my updateds</a></b> 
   
@@ -174,7 +174,7 @@ Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs:-
 
 sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs.
 
-sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://moneykamalo.com>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
+sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=gynailinks.com>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
 
 sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/WOODcraft_Mirror_Zone/37> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
 
@@ -219,9 +219,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """ 
 <b>══════════════════
-🗂 {file_name}
+🗂 {file_caption}
 ═════════════════════ 
-𝐉𝐨𝐢𝐧 𝐇𝐞𝐫𝐞 :- @WD_Topic_Group</b>"""
+𝐉𝐨𝐢𝐧 𝐇𝐞𝐫𝐞 :- @MOVIESXYZ_OFCL</b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
